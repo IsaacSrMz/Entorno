@@ -8,7 +8,7 @@ public class GIT {
 		int a = 20;
 		int b = 2;
 		
-		System.out.println( a + b );
+	JOptionPane.showMessageDialog(null, a + b);
 		System.out.println( a - b );
 		
 		
